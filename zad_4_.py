@@ -4,9 +4,12 @@ Created on Mon Nov  6 12:38:11 2023
 
 @author: student
 """
+
+
 def sprawdź_sumę(a, b, c):
     suma_dwoch_pierwszych = a + b
     return suma_dwoch_pierwszych >= c
+
 
 liczba1 = int(input("Podaj pierwszą liczbę: "))
 liczba2 = int(input("Podaj drugą liczbę: "))
