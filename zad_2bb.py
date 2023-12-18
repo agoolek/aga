@@ -12,7 +12,7 @@ print(lista)
 nowa_lista = [liczba * 2 for liczba in lista]
 print(nowa_lista)
 
-#z pętlą for
+# z pętlą for
 nowa_lista = []
 for liczba in lista:
     nowa_lista.append(liczba * 2)
